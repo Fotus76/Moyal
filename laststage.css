@@ -1,7 +1,5 @@
 //META{"name":"WMMT5","description":"A nice sleek transparent theme.","author":"Fotus76","version":"r.081"}*//
 /* IMPORT CSS FROM GITHUB */
-@import url("https://rawgit.com/Fotus76/Moyal/master/FirstStage.css");
-@import url("https://rawgit.com/Fotus76/Moyal/master/SecondStage.css")
 :root { 
 	--theme-name: "Wangan Midnight Maximum Tune";
 	--theme-letter: "M";
