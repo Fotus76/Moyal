@@ -1,9 +1,8 @@
-//META{"name":"WMMT5","description":"A nice sleek transparent theme.","author":"Fotus76","version":"r.081"}*//
-
+@import url("https://rawgit.com/0mniscient/Discord-Themes/master/css/Tags.css");
 
 :root {
     --version-content: "7.7";
-    --theme-name: "Quiet";
+    --theme-name: "WMMT";
     --theme-letter: "Q";
 }
 
